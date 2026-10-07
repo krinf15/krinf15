@@ -7,6 +7,19 @@ Master MIAGE (systèmes d'information) + Mastère IA & Management.
 
 ---
 
+## 🚧 En ce moment — octobre 2026
+
+| | Ce que je fais | Où j'en suis |
+|---|---|---|
+| 🗄️ **SQL avancé** | Programme de 10 semaines sur PostgreSQL : agrégations, jointures, CTE, fonctions de fenêtre, modélisation. Deux projets publics à la clé. | En cours depuis septembre |
+| 📊 **Power BI** | [Supermarket Sales](https://github.com/krinf15/powerbi-supermarket-sales) : un rapport construit de bout en bout, du fichier brut à la publication, documenté étape par étape. | Étape 1 sur 6 — cadrage |
+
+**✅ Terminé récemment**
+- **Sept. 2026** — [Market Analysis](https://github.com/krinf15/powerbi-market-analysis) repris deux ans après : un indicateur affichait un nombre de clients **mille fois trop grand** ; corrigé, rapport relu et README chiffré.
+- **Sept. 2026** — [Pie Bakery](https://github.com/krinf15/powerbi-pie-bakery) : README réécrit autour de résultats chiffrés, capture du tableau de bord.
+
+---
+
 ## 📂 Portfolio
 
 ### 📊 Power BI
@@ -34,10 +47,6 @@ Master MIAGE (systèmes d'information) + Mastère IA & Management.
 | **Data Viz** | Power BI (Power Query, DAX), Looker Studio, Excel avancé |
 | **Analyse & ML** | Python (Pandas, NumPy, Scikit-learn), R |
 | **Outils** | Git, SAP ERP, Streamlit, DBeaver |
-
-## 📈 En ce moment
-
-SQL avancé (PostgreSQL) · Power BI
 
 ---
 
