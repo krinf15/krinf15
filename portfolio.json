@@ -1,0 +1,111 @@
+{
+  "salutation": "Bonjour, je suis Carine FOTSO 👋",
+  "accroche": "**Data Analyst** — je transforme des données d'entreprise en décisions lisibles.",
+  "intro": [
+    "Master MIAGE (systèmes d'information) + Mastère IA & Management.",
+    "~4 ans d'expérience en data — migration et qualité de données, analyse marketing, reporting — après plusieurs années en gestion de projet informatique et conception logicielle."
+  ],
+  "en_ce_moment": {
+    "titre": "En ce moment",
+    "periode": "octobre 2026",
+    "items": [
+      {
+        "emoji": "🗄️",
+        "titre": "SQL avancé",
+        "quoi": "Programme de 10 semaines sur PostgreSQL : agrégations, jointures, CTE, fonctions de fenêtre, modélisation. Deux projets publics à la clé.",
+        "etat": "En cours depuis septembre"
+      },
+      {
+        "emoji": "📊",
+        "titre": "Power BI",
+        "quoi": "[Supermarket Sales](https://github.com/krinf15/powerbi-supermarket-sales) : un rapport construit de bout en bout, du fichier brut à la publication, documenté étape par étape.",
+        "etat": "Étape 1 sur 6 — cadrage"
+      }
+    ],
+    "termine": [
+      {
+        "date": "Sept. 2026",
+        "texte": "[Market Analysis](https://github.com/krinf15/powerbi-market-analysis) repris deux ans après : un indicateur affichait un nombre de clients **mille fois trop grand** ; corrigé, rapport relu et README chiffré."
+      },
+      {
+        "date": "Sept. 2026",
+        "texte": "[Pie Bakery](https://github.com/krinf15/powerbi-pie-bakery) : README réécrit autour de résultats chiffrés, capture du tableau de bord."
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "powerbi",
+      "titre": "📊 Power BI",
+      "projets": [
+        {
+          "repo": "powerbi-market-analysis",
+          "titre": "Market Analysis",
+          "url": "https://github.com/krinf15/powerbi-market-analysis",
+          "sous_titre": "Campagnes marketing et clientèle d'un distributeur alimentaire",
+          "ce_quil_montre": "La campagne 6 génère **11 fois plus d'achats** que la campagne 2 ; le vin pèse **50 %** du chiffre d'affaires",
+          "image": "https://raw.githubusercontent.com/krinf15/powerbi-market-analysis/main/Images/02-campagnes-produits.png"
+        },
+        {
+          "repo": "powerbi-pie-bakery",
+          "titre": "Pie Bakery",
+          "url": "https://github.com/krinf15/powerbi-pie-bakery",
+          "sous_titre": "Ventes d'une pâtisserie, 2019-2021",
+          "ce_quil_montre": "Trois saveurs font **les deux tiers du revenu** ; le pic d'activité est au **printemps**, pas en fin d'année",
+          "image": "https://raw.githubusercontent.com/krinf15/powerbi-pie-bakery/main/Images/dashboard.png"
+        },
+        {
+          "repo": "powerbi-supermarket-sales",
+          "titre": "Supermarket Sales",
+          "url": "https://github.com/krinf15/powerbi-supermarket-sales",
+          "sous_titre": "Ventes de trois succursales",
+          "ce_quil_montre": "*En cours — octobre 2026*",
+          "badge": "🟧"
+        }
+      ]
+    },
+    {
+      "type": "python",
+      "titre": "🐍 Python & Machine Learning",
+      "projets": [
+        {
+          "repo": "python-detection-maladies-renales",
+          "titre": "Détection des maladies rénales",
+          "url": "https://github.com/krinf15/python-detection-maladies-renales",
+          "sous_titre": "Classification médicale",
+          "ce_quil_montre": "Comparaison de modèles de classification + application Streamlit"
+        },
+        {
+          "repo": "python-fast-fashion",
+          "titre": "Fast Fashion",
+          "url": "https://github.com/krinf15/python-fast-fashion",
+          "sous_titre": "Mode éthique",
+          "ce_quil_montre": "Web scraping, préparation des données et modélisation",
+          "image": "https://raw.githubusercontent.com/krinf15/python-fast-fashion/main/Img/Visualisation_projetIA_page-0001.jpg"
+        }
+      ]
+    }
+  ],
+  "competences": [
+    [
+      "Bases de données",
+      "SQL (PostgreSQL, MySQL), Amazon Redshift, modélisation"
+    ],
+    [
+      "Data Viz",
+      "Power BI (Power Query, DAX), Looker Studio, Excel avancé"
+    ],
+    [
+      "Analyse & ML",
+      "Python (Pandas, NumPy, Scikit-learn), R"
+    ],
+    [
+      "Outils",
+      "Git, SAP ERP, Streamlit, DBeaver"
+    ]
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/carine-fotso-783164151",
+    "email": "carinefotso@outlook.com"
+  }
+}

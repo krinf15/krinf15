@@ -3,7 +3,7 @@
 **Data Analyst** — je transforme des données d'entreprise en décisions lisibles.
 
 Master MIAGE (systèmes d'information) + Mastère IA & Management.
-~4 ans d'expérience : migration et qualité de données, analyse marketing, reporting.
+~4 ans d'expérience en data — migration et qualité de données, analyse marketing, reporting — après plusieurs années en gestion de projet informatique et conception logicielle.
 
 ---
 
@@ -27,14 +27,14 @@ Master MIAGE (systèmes d'information) + Mastère IA & Management.
 | | Projet | Ce qu'il montre |
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/krinf15/powerbi-market-analysis/main/Images/02-campagnes-produits.png" width="260"> | [**Market Analysis**](https://github.com/krinf15/powerbi-market-analysis)<br>Campagnes marketing et clientèle d'un distributeur alimentaire | La campagne 6 génère **11 fois plus d'achats** que la campagne 2 ; le vin pèse **50 %** du chiffre d'affaires |
-| <img src="https://raw.githubusercontent.com/krinf15/powerbi-pie-bakery/master/Images/dashboard.png" width="260"> | [**Pie Bakery**](https://github.com/krinf15/powerbi-pie-bakery)<br>Ventes d'une pâtisserie, 2019-2021 | Trois saveurs font **les deux tiers du revenu** ; le pic d'activité est au **printemps**, pas en fin d'année |
+| <img src="https://raw.githubusercontent.com/krinf15/powerbi-pie-bakery/main/Images/dashboard.png" width="260"> | [**Pie Bakery**](https://github.com/krinf15/powerbi-pie-bakery)<br>Ventes d'une pâtisserie, 2019-2021 | Trois saveurs font **les deux tiers du revenu** ; le pic d'activité est au **printemps**, pas en fin d'année |
 | 🟧 | [**Supermarket Sales**](https://github.com/krinf15/powerbi-supermarket-sales)<br>Ventes de trois succursales | *En cours — octobre 2026* |
 
 ### 🐍 Python & Machine Learning
 
 | | Projet | Ce qu'il montre |
 |---|---|---|
-| | [**Détection des maladies rénales**](https://github.com/krinf15/python-detection-maladies-renales)<br>Classification médicale | Comparaison de 4 modèles de classification + application Streamlit |
+| | [**Détection des maladies rénales**](https://github.com/krinf15/python-detection-maladies-renales)<br>Classification médicale | Comparaison de modèles de classification + application Streamlit |
 | <img src="https://raw.githubusercontent.com/krinf15/python-fast-fashion/main/Img/Visualisation_projetIA_page-0001.jpg" width="260"> | [**Fast Fashion**](https://github.com/krinf15/python-fast-fashion)<br>Mode éthique | Web scraping, préparation des données et modélisation |
 
 ---
