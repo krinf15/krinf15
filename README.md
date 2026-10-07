@@ -1,31 +1,44 @@
-Bonjour, je suis Carine FOTSO 👋
+## Bonjour, je suis Carine FOTSO 👋
 
-À propos de moi
+**Data Analyst** — je transforme des données d'entreprise en décisions lisibles.
 
-🎓 Diplômée en IA & Management, je suis une data analyste enthousiaste, spécialisée dans la transformation de données complexes en insights actionnables.
-💼 Expérience en:
+Master MIAGE (systèmes d'information) + Mastère IA & Management.
+~4 ans d'expérience : migration et qualité de données, analyse marketing, reporting.
 
-- Analyse de données marketing
-- Visualisation avec Power BI & QlikView
-- Modélisation prédictive
-- Gestion de bases de données SQL
+---
 
-Mes compétences 🚀
+## 📂 Portfolio
 
-- Langages de programmation : Python, SQL, R
-- Outils de visualisation : Power BI, QlikView, Google Looker Studio
-- Bases de données : MySQL, Amazon Redshift
-- Autres outils : Excel avancé, JIRA, Dbeaver
-- Machine Learning et statistiques
+### 📊 Power BI
 
-🔍 Toujours à la recherche de nouveaux défis data pour améliorer les processus décisionnels et créer de la valeur.
-📚 Actuellement, je prépare deux certifications : la certification Power BI PL 300 et AWS Cloud Practitionner.
-🌟 Objectif: Contribuer à des projets innovants qui repoussent les limites de l'analyse de données et de l'IA.
-📫 Contactez-moi: carinefotso@outlook.com
-🔗 LinkedIn: www.linkedin.com/in/carine-fotso-783164151
-💡 "Les données sont le nouveau pétrole, l'analyse est le moteur." - Moi-même
+| | Projet | Ce qu'il montre |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/krinf15/powerbi-market-analysis/main/Images/02-campagnes-produits.png" width="260"> | [**Market Analysis**](https://github.com/krinf15/powerbi-market-analysis)<br>Campagnes marketing et clientèle d'un distributeur alimentaire | La campagne 6 génère **11 fois plus d'achats** que la campagne 2 ; le vin pèse **50 %** du chiffre d'affaires |
+| <img src="https://raw.githubusercontent.com/krinf15/powerbi-pie-bakery/master/Images/dashboard.png" width="260"> | [**Pie Bakery**](https://github.com/krinf15/powerbi-pie-bakery)<br>Ventes d'une pâtisserie, 2019-2021 | Trois saveurs font **les deux tiers du revenu** ; le pic d'activité est au **printemps**, pas en fin d'année |
+| 🟧 | [**Supermarket Sales**](https://github.com/krinf15/powerbi-supermarket-sales)<br>Ventes de trois succursales | *En cours — octobre 2026* |
 
-<!---
-krinf15/krinf15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🐍 Python & Machine Learning
+
+| | Projet | Ce qu'il montre |
+|---|---|---|
+| | [**Détection des maladies rénales**](https://github.com/krinf15/python-detection-maladies-renales)<br>Classification médicale | Comparaison de 4 modèles de classification + application Streamlit |
+| <img src="https://raw.githubusercontent.com/krinf15/python-fast-fashion/main/Img/Visualisation_projetIA_page-0001.jpg" width="260"> | [**Fast Fashion**](https://github.com/krinf15/python-fast-fashion)<br>Mode éthique | Web scraping, préparation des données et modélisation |
+
+---
+
+## 🛠️ Compétences
+
+| | |
+|---|---|
+| **Bases de données** | SQL (PostgreSQL, MySQL), Amazon Redshift, modélisation |
+| **Data Viz** | Power BI (Power Query, DAX), Looker Studio, Excel avancé |
+| **Analyse & ML** | Python (Pandas, NumPy, Scikit-learn), R |
+| **Outils** | Git, SAP ERP, Streamlit, DBeaver |
+
+## 📈 En ce moment
+
+SQL avancé (PostgreSQL) · Power BI
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/carine-fotso-783164151) · carinefotso@outlook.com
